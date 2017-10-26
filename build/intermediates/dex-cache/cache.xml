@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adam Noor\.android\build-cache\7d39bb4146e87769002f1daeeaf2470f10b7882e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="E:\AndroidProjects\Just-clue\app\build\intermediates\pre-dexed\debug\classes_38762063413691d2fad6c484405d122949cdfcc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adam Noor\.android\build-cache\39211d5bba56cc038403e7f56970282ffe09d597\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="E:\AndroidProjects\Just-clue\app\build\intermediates\pre-dexed\debug\classes_1f3dbae1be7f90f64812a8034e15e004fd28e2a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adam Noor\.android\build-cache\89ceee6a957dea2ea6be234943e0bcc662bcde31\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\AndroidProjects\Just-clue\app\build\intermediates\pre-dexed\debug\classes_f121c3e57c267bfe15b961ee1149f1e8a3775b96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Public\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\AndroidProjects\Just-clue\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_e82656a0ad46fa630611a6f8231f4788d1b4cd80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adam Noor\.android\build-cache\2cc6a6dd8b1eb5df99e6ad1b643fbc1229eba3b7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\AndroidProjects\Just-clue\app\build\intermediates\pre-dexed\debug\classes_83b163c89ccc5194e9f8187b179fe3daa3b86f25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adam Noor\.gradle\caches\modules-2\files-2.1\com.thefinestartist\annotations\0.9.0\b69d23b00ca5fd30feea91ab4b24a192d6b928ef\annotations-0.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b69d23b00ca5fd30feea91ab4b24a192d6b928ef">
+        <dex dex="E:\AndroidProjects\Just-clue\app\build\intermediates\pre-dexed\debug\annotations-0.9.0_01b463facc3a1d7a46981668dfc56247f74acec0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adam Noor\.android\build-cache\daa0c0d3bd3e59b21cbd8666d8ef4c427d3cbd61\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\AndroidProjects\Just-clue\app\build\intermediates\pre-dexed\debug\classes_6250470652d0c76f22d7986cb0b59895cff721f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adam Noor\.android\build-cache\61395953cc5c4cf4487c6201348c018be6d7c4cd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="E:\AndroidProjects\Just-clue\app\build\intermediates\pre-dexed\debug\classes_0111673b24a076d5ea9767231fb1b8a70556feaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adam Noor\.android\build-cache\2add999d406d37918c6e512ea6bf0b2b7a40f60f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\AndroidProjects\Just-clue\app\build\intermediates\pre-dexed\debug\classes_b783dcb319376296c3aa1135530a107254644414.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adam Noor\.android\build-cache\3086b28fb55c128bc45a8ec63b61de5fbd21255a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="E:\AndroidProjects\Just-clue\app\build\intermediates\pre-dexed\debug\classes_0f09660f1a4adb4a1f7c3f7583862a27a1f27ed1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adam Noor\.android\build-cache\a0ebffbe3c1c03765447c29cba4fa4c0c5feb6c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="E:\AndroidProjects\Just-clue\app\build\intermediates\pre-dexed\debug\classes_e63921d8c1177d8ef636c3360bed2699064f6933.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adam Noor\.android\build-cache\fa7202fb6b73d0ce89f7ab0daab0ecc1162008fe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\AndroidProjects\Just-clue\app\build\intermediates\pre-dexed\debug\classes_cbfca7f0e732745e99736af9ec71a7ea8cb12a48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adam Noor\.android\build-cache\fbee7d0109e712148f1ce9b7fab3f225de0e58b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\AndroidProjects\Just-clue\app\build\intermediates\pre-dexed\debug\classes_4d5785c93d7f50b38248a0767c26e2fbb70bf802.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adam Noor\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\AndroidProjects\Just-clue\app\build\intermediates\pre-dexed\debug\library-2.4.0_df54e060bdc9ee72c961364dcc9b00000e2331e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adam Noor\.android\build-cache\d6bc0c304cd49dcd0ee1423e0f4f0090abc26a8a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\AndroidProjects\Just-clue\app\build\intermediates\pre-dexed\debug\classes_9e4a0848b13942eeeea10538a6fece5a6b747fdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adam Noor\.android\build-cache\5fa0c44e42cd985af5b0023bc1e97e2ebd774ebe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="E:\AndroidProjects\Just-clue\app\build\intermediates\pre-dexed\debug\classes_da1511ad1f4252ae0eb981901bb0c2bfc860e91d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adam Noor\.android\build-cache\46d7ee60534340e7bcf3987d1c83e75a0e23eb8e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="E:\AndroidProjects\Just-clue\app\build\intermediates\pre-dexed\debug\classes_7e554c9de4fc6dcf28b91c7501e6214985472176.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adam Noor\.android\build-cache\f0dc2647ee01c387a7b92e456e89f0126ce19443\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="E:\AndroidProjects\Just-clue\app\build\intermediates\pre-dexed\debug\classes_ef7b0c976797ae34c5a93aa016bef3ac7af6214b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adam Noor\.android\build-cache\388a28e1af88fa5f89b9519252801561bdf371b5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\AndroidProjects\Just-clue\app\build\intermediates\pre-dexed\debug\classes_a6f91472d9f3c0b83f6f4f289f569bd8f91cf311.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adam Noor\.android\build-cache\9451555eaff54e93f32bc8be9fa334bced95ddc8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="E:\AndroidProjects\Just-clue\app\build\intermediates\pre-dexed\debug\classes_493da1009217dc31b450d478c6390d33c59446b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adam Noor\.android\build-cache\bc2efa4a129e929903c63efc152277c35bf33f08\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="E:\AndroidProjects\Just-clue\app\build\intermediates\pre-dexed\debug\classes_bebfdd354228d15c98c054977e9589ed5d07ad26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adam Noor\.android\build-cache\1b75584c11abacaecc5b41f385ca7fdc72d3966e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1c257801a8f17ba722a2658c3f4e799c395c5bc0">
+        <dex dex="E:\AndroidProjects\Just-clue\app\build\intermediates\pre-dexed\debug\classes_e36c12d16c9e56e5a857a5bc23f883f14cbe2763.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adam Noor\.android\build-cache\5964010ed131e6a071898b781e5da928b3fae4e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="79d618ba6bd0d7e61f5cb8c3a958cde5cf02efcd">
+        <dex dex="E:\AndroidProjects\Just-clue\app\build\intermediates\pre-dexed\debug\classes_11b212121e3cf59f65b927d24a68f6aa1784df3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Adam Noor\.android\build-cache\eef6ca2a50e724ac5a61e216e0acab6a829267c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\AndroidProjects\Just-clue\app\build\intermediates\pre-dexed\debug\classes_2ece617c4355dcf81e8bd3d8e24a529cfe1d16d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Public\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="E:\AndroidProjects\Just-clue\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_585c1ff00d441af2e3a92fd51b5bb498879205f7.jar" />
+    </item>
+
+</items>
